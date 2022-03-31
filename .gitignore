@@ -1,3 +1,4 @@
 #Estos son los archivos que queremos ignorar
 .env
 #o por ejemplo también podemos ignorar capetas. por ejemplo node_modules/
+.env
